@@ -1,0 +1,7 @@
+.col_box{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 500px;
+    margin: 0 auto;
+}

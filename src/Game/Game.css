@@ -1,0 +1,25 @@
+.game_box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sel_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sel_box span{
+    display: inline-block;
+    height: 30px;
+    line-height: 18px;
+}
+
+.mode_sel{
+    margin-bottom: 10px;
+    height: 30px;
+    border: none;
+    outline: none;
+}
